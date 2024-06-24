@@ -159,48 +159,45 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Main Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SoundSeyf
+        link: "https://beausha.com"
+        tagline: "Django Music Website"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DAA
+        link: "https://github.com/AisDisappeared/Drf-Auth-Api"
+        tagline: "Complete Authentication API with Django Rest Framework"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: AR-PW
+        link: "https://github.com/AisDisappeared/AR-PW"
+        tagline: "Website For Music Artist"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     List of my open source software contributions:
+
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SoundSeyf
+        link: "https://github.com/AisDisappeared/soundseyf"
+        tagline: "Django Music Website"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: DAA(DRF Auth Api)
+        link: "https://github.com/AisDisappeared/Drf-Auth-Api"
+        tagline: "Complete Authentication API with Django Rest Framework"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: AR-PW
+        link: "https://github.com/AisDisappeared/AR-PW"
+        tagline: "Website For Music Artist"
+
+      - title: BTC Change Alert Robot
+        link: "https://github.com/AisDisappeared/BTC-price-change-alert-robot-"
+        tagline: "BTC-price-change-alert-robot"
+
+
+
 
 publications:
     title: Publications
