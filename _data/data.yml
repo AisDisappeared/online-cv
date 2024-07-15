@@ -242,7 +242,7 @@ skills:
         level: 80%
 
       - name: RDBMS Databases (Mysql,Postgresql)
-        level: 85%
+        level: 95%
 
       - name: Network Architecture & Concepts
         level: 80%
@@ -258,6 +258,9 @@ skills:
 
       - name: Microservice
         level: 52%
+
+      - name: Tailwind css
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
