@@ -169,9 +169,9 @@ projects:
         link: "https://github.com/AisDisappeared/Drf-Auth-Api"
         tagline: "Complete Authentication API with Django Rest Framework"
 
-      - title: AR-PW
-        link: "https://github.com/AisDisappeared/AR-PW"
-        tagline: "Website For Music Artist"
+      # - title: 
+      #   link: ""
+      #   tagline: ""
 
 
 oss:
@@ -188,9 +188,9 @@ oss:
         link: "https://github.com/AisDisappeared/Drf-Auth-Api"
         tagline: "Complete Authentication API with Django Rest Framework"
 
-      - title: AR-PW
-        link: "https://github.com/AisDisappeared/AR-PW"
-        tagline: "Website For Music Artist"
+      # - title: 
+      #   link: ""
+      #   tagline: ""
 
       - title: BTC Change Alert Robot
         link: "https://github.com/AisDisappeared/BTC-price-change-alert-robot-"
