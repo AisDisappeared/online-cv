@@ -161,6 +161,10 @@ projects:
     intro: >
         Main Projects
     assignments:
+      - title: Aram Rohani
+        link: "https://aramrohani.liara.run/"
+        tagline: "Personal website For Aram Rohani Music Instructor - Created With Django and Tailwind css"
+
       - title: SoundSeyf
         link: "https://beausha.com"
         tagline: "Django Music Website"
@@ -180,6 +184,10 @@ oss:
      List of my open source software contributions:
 
     contributions:
+      - title: Aram Rohani
+        link: "https://aramrohani.liara.run/"
+        tagline: "Personal Website For Music Artist and Instructor"
+
       - title: SoundSeyf
         link: "https://github.com/AisDisappeared/soundseyf"
         tagline: "Django Music Website"
@@ -188,9 +196,6 @@ oss:
         link: "https://github.com/AisDisappeared/Drf-Auth-Api"
         tagline: "Complete Authentication API with Django Rest Framework"
 
-      # - title: 
-      #   link: ""
-      #   tagline: ""
 
       - title: BTC Change Alert Robot
         link: "https://github.com/AisDisappeared/BTC-price-change-alert-robot-"
@@ -199,25 +204,25 @@ oss:
 
 
 
-publications:
-    title: Publications
-    intro: |
-      You can see the list of Articles, Publications and Projects which i deployed.
-    papers:
-      - title: Soundseyf (A Musical Django Website on Nginx Server)
-        link: "https://beausha.com"
-        authors: Ali seyfi
-        conference: Done 2024
+# publications:
+#     title: Publications
+#     intro: |
+#       You can see the list of Articles, Publications and Projects which i deployed.
+#     papers:
+#       - title: Soundseyf (A Musical Django Website on Nginx Server)
+#         link: "https://beausha.com"
+#         authors: Ali seyfi
+#         conference: Done 2024
 
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   link: "#"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#       #   link: "#"
+#       #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      # - title: A syntax directed compiler for Algol 60
-      #   link: "#"
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
+#       # - title: A syntax directed compiler for Algol 60
+#       #   link: "#"
+#       #   authors: Edgar T. Irons
+#       #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -260,7 +265,7 @@ skills:
         level: 52%
 
       - name: Tailwind css
-        level: 40%
+        level: 47%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
