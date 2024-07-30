@@ -257,8 +257,8 @@ skills:
       - name: Django ORM & OOP
         level: 92%
 
-      - name: Microservice
-        level: 52%
+      # - name: Microservice
+      #   level: 52%
 
       - name: Tailwind css
         level: 47%
