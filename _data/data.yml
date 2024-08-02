@@ -98,6 +98,7 @@ experiences:
             - Django Rest Framework
             - Python 
             - Django
+            - Redis
             - Mysql,Postgresql,MongoDB
             - Git & Version Control 
             - CRUD / ORM 
@@ -256,6 +257,9 @@ skills:
 
       - name: Django ORM & OOP
         level: 92%
+
+      - name: Redis
+        level: 80%
 
       # - name: Microservice
       #   level: 40%
