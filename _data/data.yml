@@ -170,9 +170,9 @@ projects:
         link: "https://github.com/AisDisappeared/Drf-Auth-Api"
         tagline: "Complete Authentication API with Django Rest Framework"
 
-      # - title: 
-      #   link: ""
-      #   tagline: ""
+      - title: chat
+        link: "https://github.com/AisDisappeared/chat"
+        tagline: "Real-Time chat application created with django and websockets"
 
 
 oss:
@@ -240,6 +240,9 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
+      - name: WebSockets
+        level: 70% 
+
       - name: SEO Concepts & Tools
         level: 80%
 
@@ -265,7 +268,7 @@ skills:
       #   level: 40%
 
       - name: Tailwind css
-        level: 47%
+        level: 67%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
